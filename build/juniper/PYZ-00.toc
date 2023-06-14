@@ -1,5 +1,4 @@
-('C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 '
- '계산기\\build\\juniper\\PYZ-00.pyz',
+('C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\build\\juniper\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\oyj42\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compat_pickle.py',
    'PYMODULE'),

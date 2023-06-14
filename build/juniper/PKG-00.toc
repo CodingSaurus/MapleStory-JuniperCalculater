@@ -1,5 +1,4 @@
-('C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 '
- '계산기\\build\\juniper\\juniper.pkg',
+('C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\build\\juniper\\juniper.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -9,28 +8,22 @@
   'PYZ': False,
   'SPLASH': True},
  [('PYZ-00.pyz',
-   'C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 '
-   '계산기\\build\\juniper\\PYZ-00.pyz',
+   'C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\build\\juniper\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 '
-   '계산기\\build\\juniper\\localpycs\\struct.pyc',
+   'C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\build\\juniper\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 '
-   '계산기\\build\\juniper\\localpycs\\pyimod01_archive.pyc',
+   'C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\build\\juniper\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 '
-   '계산기\\build\\juniper\\localpycs\\pyimod02_importers.pyc',
+   'C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\build\\juniper\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 '
-   '계산기\\build\\juniper\\localpycs\\pyimod03_ctypes.pyc',
+   'C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\build\\juniper\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 '
-   '계산기\\build\\juniper\\localpycs\\pyimod04_pywin32.pyc',
+   'C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\build\\juniper\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\oyj42\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -39,7 +32,7 @@
    'C:\\Users\\oyj42\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('juniper',
-   'C:\\Users\\oyj42\\OneDrive\\Documents\\개인폴더\\쥬니퍼베리 계산기\\juniper.py',
+   'C:\\Users\\oyj42\\OneDrive\\Documents\\GitHub\\MapleStory-JuniperCalculater\\juniper.py',
    'PYSOURCE')],
  True,
  False,
